@@ -1,6 +1,8 @@
 # DEISI-World-Meter
 This project is a Java application called “DEISI World Meter”.
 
+**UNDER DEVELOPMENT**
+
 ```Data Manipulation:``` 
 The application reads and analyzes data from various CSV files, which contain information about countries, cities and populations. Data is stored in multiple custom object lists.
 
