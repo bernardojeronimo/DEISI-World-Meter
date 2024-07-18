@@ -1,9 +1,7 @@
 # DEISI-World-Meter
 
-```UNDER DEVELOPMENT```
 
 This project is a Java application called “DEISI World Meter”.
-
 
 
 ```Data Manipulation:``` 
