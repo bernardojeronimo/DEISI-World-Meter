@@ -16,4 +16,4 @@ The application reads and analyzes data from various CSV files, which contain in
 **AUTHORS:**
 
 - https://github.com/bernardojeronimo
-- https://github.com/frederic0Sant0s
+- https://github.com/frederic0Santos
